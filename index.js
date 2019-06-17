@@ -7,6 +7,7 @@ function myAnimal(dog) {
 
 function yourAnimal(cat) {
   return animal
+  console.log( is eating`)
 }
 
 
